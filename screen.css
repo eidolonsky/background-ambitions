@@ -55,7 +55,7 @@ table {
 
 body {
   color: #334431;
-  font-family: "camingodos-web", Trebuchet, Verdana, Helvetica, sans-serif;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
   font-size: 1.2em; /* 19.2px / 16px */
   line-height: 1.44em; /* 28.8px / 20px */
   padding-top: 1.44em; /* 28.8px / 20px */
@@ -71,7 +71,7 @@ p {
 
 h1 {
   color: #e05038;
-  font-family: "camingodos-web", Trebuchet, Verdana, Helvetica, sans-serif;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
   font-weight: bold;
   font-size: 1.728em; /* 34.56px / 20px */
   line-height: 1.6666666666667em; /* 28.8px * 2 / 34.56px */
@@ -82,7 +82,7 @@ h1 {
 
 h2 {
   color: #e05038;
-  font-family: "camingodos-web", Trebuchet, Verdana, Helvetica, sans-serif;
+  font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 1.2em; /* 24px / 20px */
   line-height: 1.44em; /* 28.8px / 20px */
   padding-top: 0em; /* Closer */
@@ -92,7 +92,7 @@ h2 {
 
 h3 {
   color: #e05038;
-  font-family: "camingodos-web", Trebuchet, Verdana, Helvetica, sans-serif;
+  font-family: "Goudy Bookletter 1911", sans-serif;
   font-weight: bold;
   font-size: 1.44em; /* 28.8px / 20px */
   line-height: 1.728em; /* 34.56px / 20px */
@@ -102,7 +102,7 @@ h3 {
 
 h4 {
   color: #e05038;
-  font-family: "camingodos-web", Trebuchet, Verdana, Helvetica, sans-serif;
+  font-family: "Goudy Bookletter 1911", sans-serif;
   font-weight: bold;
   font-size: 1.44em; /* 28.8px / 20px */
   line-height: 1.728em; /* 34.56px / 20px */
